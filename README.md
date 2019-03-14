@@ -8,7 +8,7 @@ The USGS is interested in building a new set of tools that will allow them visua
 
 ## Earthquake Visualization
 
-![My Map](HW17---Quake-Mapping/Mapping Web SS.png)
+![My Map](Mapping Web SS.png)
 
 1. **Data Sets**
 
@@ -28,4 +28,4 @@ The USGS is interested in building a new set of tools that will allow them visua
 
    * Has a legend that will provide context for your map data
 
-   * Has different base maps to choose from as well as separate out our two different data sets into overlays that can be      turned on and off independently
+   * Has different base maps to choose from as well as separate out our two different data sets into overlays that can be        turned on and off independently
