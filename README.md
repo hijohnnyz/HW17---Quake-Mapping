@@ -8,7 +8,7 @@ The USGS is interested in building a new set of tools that will allow them visua
 
 ## Earthquake Visualization
 
-![My Map](Mapping Web SS.png)
+![My Map](Images/screenshot.png)
 
 1. **Data Sets**
 
