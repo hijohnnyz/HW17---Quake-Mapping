@@ -1,4 +1,4 @@
-# Unit 17 | Assignment - Visualizing Data with Leaflet
+# Homework 17 | Visualizing Earthquake and Tectonic Plate Data with Leaflet
 
 ## Background
 
