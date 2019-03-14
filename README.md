@@ -20,11 +20,11 @@ The USGS is interested in building a new set of tools that will allow them visua
 
 2. **Importing & Visualizing the Data**
 
-   Create a map using Leaflet that plots all of the earthquakes from your data set based on their longitude and latitude.
+   Created a map using Leaflet that plotted all of the earthquakes from the data set based on their longitude and latitude
 
-   * Adding data markers that reflect the magnitude of the earthquake in their size and color
+   * Added data markers that reflect the magnitude of the earthquake in their size and color
 
-   * Includes popups that provide additional information about the earthquake when a marker is clicked
+   * Included popups that provide additional information about the earthquake when a marker is clicked
 
    * Has a legend that will provide context for your map data
 
